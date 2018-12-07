@@ -1,6 +1,6 @@
 # CONFIG_KILLER
 
-This script was written to retrive the configuration files of the following services :
+This script was written to retrive the configuration files of the following services on a linux system :
 - Apache
 - mongodb
 - mysql

@@ -1,7 +1,11 @@
 # CONFIG_KILLER
 
 This script was written to retrive the configuration files of the following services on a linux system :
+
+Currently in progress:
 - Apache
+
+To-do list
 - mongodb
 - mysql
 - nginx
